@@ -16,10 +16,6 @@ shift key to dash.
 State of mind is set in the mind of the elderly man. The mind is made to look
 like a maze, in which the player has to navigate through to collect the memories
 and avoid the enemies.
-It is also worth noticing that all of the artwork was created by our designers,
-whilst all sounds were chosen to ensure a captivating experience.
-We believe that despite the short time frame given for developing this game,
-the result is enjoyable whilst promoting values such as respect and teamwork.
 
 ## Video
 https://github.com/kparnis3/GameJam-2023/assets/81303628/4c5a31f7-52af-43c4-b69b-e74ef1314ad3
