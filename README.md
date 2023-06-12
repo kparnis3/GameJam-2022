@@ -18,5 +18,5 @@ like a maze, in which the player has to navigate through to collect the memories
 and avoid the enemies.
 
 ## Video
-https://github.com/kparnis3/GameJam-2023/assets/81303628/4c5a31f7-52af-43c4-b69b-e74ef1314ad3
+https://github.com/kparnis3/GameJam-2023/assets/81303628/200febfa-0579-4123-83b7-c8dd6b8f55e0
 
