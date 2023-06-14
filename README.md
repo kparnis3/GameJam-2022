@@ -1,4 +1,4 @@
-# GameJam-2023
+# GameJam-2022
 Code and Report relating to the 72-hour University GameJam competition
 ## Theme
 As our GameJam 2022 entry, we developed “State of mind”. A game designed
